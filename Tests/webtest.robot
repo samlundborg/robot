@@ -2,8 +2,8 @@
 Documentation           This is some basic info about the whole test suite.
 Resource                ../Resources/keywords.robot
 Library                 SeleniumLibrary
-Suite Setup              Begin Web Test
-Suite Teardown           End Web Test
+Suite Setup             Begin Web Test
+Suite Teardown          End Web Test
 
 *** Variables ***
 ${BROWSER}          chrome
